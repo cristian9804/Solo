@@ -1,0 +1,63 @@
+{
+  "project_info": {
+    "project_number": "61310207254",
+    "firebase_url": "https://solo-ece38.firebaseio.com",
+    "project_id": "solo-ece38",
+    "storage_bucket": "solo-ece38.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:61310207254:android:342db5d04c5d940b",
+        "android_client_info": {
+          "package_name": "com.example.solo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "61310207254-5qujag6lpolq6os2nlef7bj5bpidmht8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.solo",
+            "certificate_hash": "94ce9cbff15d8cf19a1755b3dc9ac6b47a13a7c9"
+          }
+        },
+        {
+          "client_id": "61310207254-uhhf8fgo2antven80uu8i9e464h574g1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.solo",
+            "certificate_hash": "f9677fbb0d32352c9291df4252b93b88f1c098a4"
+          }
+        },
+        {
+          "client_id": "61310207254-lacpl9mjmdtrch3kp5vjfj4ugdef96qq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDiF775zhtZQu4VnMRDnsvy5cmZCq26zhA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "61310207254-lacpl9mjmdtrch3kp5vjfj4ugdef96qq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
